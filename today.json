@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T16:20:37",
+ "generated": "2026-11-09T16:22:36",
  "deal_count": 59,
  "source_count": 37,
  "problems": 1,
@@ -7,10 +7,9 @@
   {
    "business": "Smith's",
    "item": "Fresh Baked Cookies",
-   "category": "gas_convenience",
+   "category": "grocery",
    "area": "cedar_city",
    "addresses": [
-    "633 S Main St, Cedar City, UT 84720",
     "633 S Main St, Cedar City, UT 84720"
    ],
    "tier": 1,
@@ -35,16 +34,15 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$3.00",
-   "group": "gas",
+   "group": "grocery",
    "check_first": false
   },
   {
    "business": "Smith's",
    "item": "Glazed Donuts",
-   "category": "gas_convenience",
+   "category": "grocery",
    "area": "cedar_city",
    "addresses": [
-    "633 S Main St, Cedar City, UT 84720",
     "633 S Main St, Cedar City, UT 84720"
    ],
    "tier": 1,
@@ -69,16 +67,15 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$5.00",
-   "group": "gas",
+   "group": "grocery",
    "check_first": false
   },
   {
    "business": "Smith's",
    "item": "Pumpkin or Apple Pie",
-   "category": "gas_convenience",
+   "category": "grocery",
    "area": "cedar_city",
    "addresses": [
-    "633 S Main St, Cedar City, UT 84720",
     "633 S Main St, Cedar City, UT 84720"
    ],
    "tier": 1,
@@ -103,7 +100,7 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$5.00",
-   "group": "gas",
+   "group": "grocery",
    "check_first": false
   },
   {
@@ -176,10 +173,9 @@
   {
    "business": "Smith's",
    "item": "Blueberry Muffins",
-   "category": "gas_convenience",
+   "category": "grocery",
    "area": "cedar_city",
    "addresses": [
-    "633 S Main St, Cedar City, UT 84720",
     "633 S Main St, Cedar City, UT 84720"
    ],
    "tier": 1,
@@ -204,16 +200,15 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$5.00",
-   "group": "gas",
+   "group": "grocery",
    "check_first": false
   },
   {
    "business": "Smith's",
    "item": "Brownie Bites",
-   "category": "gas_convenience",
+   "category": "grocery",
    "area": "cedar_city",
    "addresses": [
-    "633 S Main St, Cedar City, UT 84720",
     "633 S Main St, Cedar City, UT 84720"
    ],
    "tier": 1,
@@ -238,16 +233,15 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$5.00",
-   "group": "gas",
+   "group": "grocery",
    "check_first": false
   },
   {
    "business": "Smith's",
    "item": "Mini Cupcakes",
-   "category": "gas_convenience",
+   "category": "grocery",
    "area": "cedar_city",
    "addresses": [
-    "633 S Main St, Cedar City, UT 84720",
     "633 S Main St, Cedar City, UT 84720"
    ],
    "tier": 1,
@@ -272,7 +266,7 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$5.00",
-   "group": "gas",
+   "group": "grocery",
    "check_first": false
   },
   {
@@ -579,10 +573,9 @@
   {
    "business": "Smith's",
    "item": "Private Selection Fresh Roasted Chicken",
-   "category": "gas_convenience",
+   "category": "grocery",
    "area": "cedar_city",
    "addresses": [
-    "633 S Main St, Cedar City, UT 84720",
     "633 S Main St, Cedar City, UT 84720"
    ],
    "tier": 1,
@@ -607,7 +600,7 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$7.99",
-   "group": "gas",
+   "group": "grocery",
    "check_first": false
   },
   {
@@ -1973,10 +1966,9 @@
   {
    "business": "Smith's",
    "item": "18 ct Kroger Eggs",
-   "category": "gas_convenience",
+   "category": "grocery",
    "area": "cedar_city",
    "addresses": [
-    "633 S Main St, Cedar City, UT 84720",
     "633 S Main St, Cedar City, UT 84720"
    ],
    "tier": 3,
@@ -2001,7 +1993,7 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$1.99",
-   "group": "gas",
+   "group": "grocery",
    "check_first": false
   },
   {
@@ -2073,10 +2065,9 @@
   {
    "business": "Smith's",
    "item": "Private Selection Detroit Style Pizza",
-   "category": "gas_convenience",
+   "category": "grocery",
    "area": "cedar_city",
    "addresses": [
-    "633 S Main St, Cedar City, UT 84720",
     "633 S Main St, Cedar City, UT 84720"
    ],
    "tier": 3,
@@ -2101,7 +2092,7 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$12.00",
-   "group": "gas",
+   "group": "grocery",
    "check_first": false
   }
  ],
