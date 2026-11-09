@@ -1,9 +1,77 @@
 {
- "generated": "2026-11-09T11:30:26",
- "deal_count": 60,
- "source_count": 38,
- "problems": 7,
+ "generated": "2026-11-09T16:20:37",
+ "deal_count": 59,
+ "source_count": 37,
+ "problems": 1,
  "deals": [
+  {
+   "business": "Smith's",
+   "item": "Fresh Baked Cookies",
+   "category": "gas_convenience",
+   "area": "cedar_city",
+   "addresses": [
+    "633 S Main St, Cedar City, UT 84720",
+    "633 S Main St, Cedar City, UT 84720"
+   ],
+   "tier": 1,
+   "price": 3.0,
+   "regular_price": null,
+   "cost": 3.0,
+   "percent": 0,
+   "free": false,
+   "min_purchase": null,
+   "est_calories": 1800,
+   "calories_per_dollar": 600,
+   "start_date": "2026-11-04",
+   "end_date": "2026-11-10",
+   "days_of_week": [],
+   "time_window": "",
+   "requirements": [],
+   "how_to_redeem": "Weekly ad price in store",
+   "participating_locations": false,
+   "delivery_only": false,
+   "needs_cooking": false,
+   "evidence": "Fresh Baked Cookies | $3.0",
+   "source_kind": "flyer",
+   "source_url": "https://flipp.com/",
+   "price_label": "$3.00",
+   "group": "gas",
+   "check_first": false
+  },
+  {
+   "business": "Smith's",
+   "item": "Glazed Donuts",
+   "category": "gas_convenience",
+   "area": "cedar_city",
+   "addresses": [
+    "633 S Main St, Cedar City, UT 84720",
+    "633 S Main St, Cedar City, UT 84720"
+   ],
+   "tier": 1,
+   "price": 5.0,
+   "regular_price": null,
+   "cost": 5.0,
+   "percent": 0,
+   "free": false,
+   "min_purchase": null,
+   "est_calories": 3000,
+   "calories_per_dollar": 600,
+   "start_date": "2026-11-04",
+   "end_date": "2026-11-10",
+   "days_of_week": [],
+   "time_window": "",
+   "requirements": [],
+   "how_to_redeem": "Weekly ad price in store",
+   "participating_locations": false,
+   "delivery_only": false,
+   "needs_cooking": false,
+   "evidence": "Glazed Donuts | $5.0",
+   "source_kind": "flyer",
+   "source_url": "https://flipp.com/",
+   "price_label": "$5.00",
+   "group": "gas",
+   "check_first": false
+  },
   {
    "business": "Smith's",
    "item": "Pumpkin or Apple Pie",
@@ -35,6 +103,7 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$5.00",
+   "group": "gas",
    "check_first": false
   },
   {
@@ -67,6 +136,7 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$1.99",
+   "group": "dollar",
    "check_first": false
   },
   {
@@ -100,11 +170,114 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$1.00",
+   "group": "dollar",
+   "check_first": false
+  },
+  {
+   "business": "Smith's",
+   "item": "Blueberry Muffins",
+   "category": "gas_convenience",
+   "area": "cedar_city",
+   "addresses": [
+    "633 S Main St, Cedar City, UT 84720",
+    "633 S Main St, Cedar City, UT 84720"
+   ],
+   "tier": 1,
+   "price": 5.0,
+   "regular_price": null,
+   "cost": 5.0,
+   "percent": 0,
+   "free": false,
+   "min_purchase": null,
+   "est_calories": 1600,
+   "calories_per_dollar": 320,
+   "start_date": "2026-11-04",
+   "end_date": "2026-11-10",
+   "days_of_week": [],
+   "time_window": "",
+   "requirements": [],
+   "how_to_redeem": "Weekly ad price in store",
+   "participating_locations": false,
+   "delivery_only": false,
+   "needs_cooking": false,
+   "evidence": "Blueberry Muffins | $5.0",
+   "source_kind": "flyer",
+   "source_url": "https://flipp.com/",
+   "price_label": "$5.00",
+   "group": "gas",
+   "check_first": false
+  },
+  {
+   "business": "Smith's",
+   "item": "Brownie Bites",
+   "category": "gas_convenience",
+   "area": "cedar_city",
+   "addresses": [
+    "633 S Main St, Cedar City, UT 84720",
+    "633 S Main St, Cedar City, UT 84720"
+   ],
+   "tier": 1,
+   "price": 5.0,
+   "regular_price": null,
+   "cost": 5.0,
+   "percent": 0,
+   "free": false,
+   "min_purchase": null,
+   "est_calories": 1600,
+   "calories_per_dollar": 320,
+   "start_date": "2026-11-04",
+   "end_date": "2026-11-10",
+   "days_of_week": [],
+   "time_window": "",
+   "requirements": [],
+   "how_to_redeem": "Weekly ad price in store",
+   "participating_locations": false,
+   "delivery_only": false,
+   "needs_cooking": false,
+   "evidence": "Brownie Bites | $5.0",
+   "source_kind": "flyer",
+   "source_url": "https://flipp.com/",
+   "price_label": "$5.00",
+   "group": "gas",
+   "check_first": false
+  },
+  {
+   "business": "Smith's",
+   "item": "Mini Cupcakes",
+   "category": "gas_convenience",
+   "area": "cedar_city",
+   "addresses": [
+    "633 S Main St, Cedar City, UT 84720",
+    "633 S Main St, Cedar City, UT 84720"
+   ],
+   "tier": 1,
+   "price": 5.0,
+   "regular_price": null,
+   "cost": 5.0,
+   "percent": 0,
+   "free": false,
+   "min_purchase": null,
+   "est_calories": 1500,
+   "calories_per_dollar": 300,
+   "start_date": "2026-11-04",
+   "end_date": "2026-11-10",
+   "days_of_week": [],
+   "time_window": "",
+   "requirements": [],
+   "how_to_redeem": "Weekly ad price in store",
+   "participating_locations": false,
+   "delivery_only": false,
+   "needs_cooking": false,
+   "evidence": "Mini Cupcakes | $5.0",
+   "source_kind": "flyer",
+   "source_url": "https://flipp.com/",
+   "price_label": "$5.00",
+   "group": "gas",
    "check_first": false
   },
   {
    "business": "Crumbl",
-   "item": "Cookie Thin and Dirty Soda Combo",
+   "item": "Cookie Thin and Dirty Soda combo",
    "category": "bakery_dessert",
    "area": "cedar_city",
    "addresses": [
@@ -124,7 +297,7 @@
    "days_of_week": [],
    "time_window": "",
    "requirements": [],
-   "how_to_redeem": "Order value menu online",
+   "how_to_redeem": "Order combo online or in store",
    "participating_locations": true,
    "delivery_only": false,
    "needs_cooking": false,
@@ -132,6 +305,7 @@
    "source_kind": "roundup",
    "source_url": "https://hip2save.com/deals/cheap-eats/",
    "price_label": "$1.69",
+   "group": "sweets",
    "check_first": false
   },
   {
@@ -156,7 +330,7 @@
    "days_of_week": [],
    "time_window": "",
    "requirements": [],
-   "how_to_redeem": "Order the deal",
+   "how_to_redeem": "Order large 3-topping pizza",
    "participating_locations": true,
    "delivery_only": false,
    "needs_cooking": false,
@@ -164,6 +338,7 @@
    "source_kind": "roundup",
    "source_url": "https://hip2save.com/deals/cheap-eats/",
    "price_label": "$10.00",
+   "group": "fast_food",
    "check_first": false
   },
   {
@@ -188,7 +363,7 @@
    "days_of_week": [],
    "time_window": "",
    "requirements": [],
-   "how_to_redeem": "Order the deal",
+   "how_to_redeem": "Order 2 large 2-topping pizzas",
    "participating_locations": true,
    "delivery_only": false,
    "needs_cooking": false,
@@ -196,11 +371,12 @@
    "source_kind": "roundup",
    "source_url": "https://hip2save.com/deals/cheap-eats/",
    "price_label": "$19.98",
+   "group": "fast_food",
    "check_first": false
   },
   {
    "business": "McDonald's",
-   "item": "Breakfast Sandwich via app coupon",
+   "item": "Breakfast sandwich with app coupon",
    "category": "restaurant",
    "area": "cedar_city",
    "addresses": [
@@ -224,7 +400,7 @@
     "app",
     "coupon"
    ],
-   "how_to_redeem": "Select coupon in app under Rewards & Deals; limit 1 per person per week",
+   "how_to_redeem": "Select coupon in app under Rewards & Deals; limit 1 per week",
    "participating_locations": false,
    "delivery_only": false,
    "needs_cooking": false,
@@ -232,6 +408,7 @@
    "source_kind": "roundup",
    "source_url": "https://hip2save.com/deals/cheap-eats/",
    "price_label": "$2.00",
+   "group": "fast_food",
    "check_first": false
   },
   {
@@ -264,11 +441,12 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$4.29",
+   "group": "dollar",
    "check_first": false
   },
   {
    "business": "Pizza Hut",
-   "item": "Triple Treat Box GameDay Edition: two medium 1-topping pizzas, 5 breadsticks, 10 cinnamon sticks",
+   "item": "Triple Treat Box: 2 medium 1-topping pizzas, 5 breadsticks, 10 cinnamon sticks",
    "category": "restaurant",
    "area": "cedar_city",
    "addresses": [
@@ -288,19 +466,20 @@
    "days_of_week": [],
    "time_window": "",
    "requirements": [],
-   "how_to_redeem": "Order Triple Treat Box",
-   "participating_locations": false,
+   "how_to_redeem": "Order Triple Treat Box GameDay Edition",
+   "participating_locations": true,
    "delivery_only": false,
    "needs_cooking": false,
    "evidence": "Triple Treat Box GameDay Edition starts at just $21.99",
    "source_kind": "roundup",
    "source_url": "https://hip2save.com/deals/cheap-eats/",
    "price_label": "$21.99",
+   "group": "fast_food",
    "check_first": false
   },
   {
    "business": "Crumbl",
-   "item": "Cookie Thin or Dirty Soda (value menu)",
+   "item": "Cookie Thin or Dirty Soda value menu",
    "category": "bakery_dessert",
    "area": "cedar_city",
    "addresses": [
@@ -320,7 +499,7 @@
    "days_of_week": [],
    "time_window": "",
    "requirements": [],
-   "how_to_redeem": "Order value menu online; find a 'Now Pouring' location for Dirty Sodas",
+   "how_to_redeem": "Order from the value menu at a Now Pouring location",
    "participating_locations": true,
    "delivery_only": false,
    "needs_cooking": false,
@@ -328,6 +507,7 @@
    "source_kind": "roundup",
    "source_url": "https://hip2save.com/deals/cheap-eats/",
    "price_label": "$0.99",
+   "group": "sweets",
    "check_first": false
   },
   {
@@ -360,6 +540,7 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$3.00",
+   "group": "dollar",
    "check_first": false
   },
   {
@@ -384,7 +565,7 @@
    "days_of_week": [],
    "time_window": "",
    "requirements": [],
-   "how_to_redeem": "Order the deal",
+   "how_to_redeem": "Order bundle",
    "participating_locations": true,
    "delivery_only": false,
    "needs_cooking": false,
@@ -392,6 +573,7 @@
    "source_kind": "roundup",
    "source_url": "https://hip2save.com/deals/cheap-eats/",
    "price_label": "$17.99",
+   "group": "fast_food",
    "check_first": false
   },
   {
@@ -425,11 +607,12 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$7.99",
+   "group": "gas",
    "check_first": false
   },
   {
    "business": "IHOP",
-   "item": "$6 Value Meals (BLT, Ham & Cheese Omelette, French Toast Breakfast, etc.)",
+   "item": "$6 Value Meals (BLT, omelette, French toast, scramble, etc.)",
    "category": "restaurant",
    "area": "cedar_city",
    "addresses": [
@@ -449,7 +632,7 @@
    "days_of_week": [],
    "time_window": "",
    "requirements": [],
-   "how_to_redeem": "Order select value meals; some locations $7",
+   "how_to_redeem": "Order a value meal",
    "participating_locations": true,
    "delivery_only": false,
    "needs_cooking": false,
@@ -457,6 +640,7 @@
    "source_kind": "roundup",
    "source_url": "https://hip2save.com/deals/cheap-eats/",
    "price_label": "$6.00",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -495,6 +679,76 @@
    "source_kind": "web",
    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
    "price_label": "$9.95",
+   "group": "restaurant",
+   "check_first": false
+  },
+  {
+   "business": "Wingstop",
+   "item": "Boneless wings at 70\u00a2 each",
+   "category": "restaurant",
+   "area": "cedar_city",
+   "addresses": [
+    "1409 S Old Hwy 91 Unit 103, Cedar City, UT 84720"
+   ],
+   "tier": 1,
+   "price": 0.7,
+   "regular_price": null,
+   "cost": 0.7,
+   "percent": 0,
+   "free": false,
+   "min_purchase": null,
+   "est_calories": 90,
+   "calories_per_dollar": 129,
+   "start_date": "",
+   "end_date": "",
+   "days_of_week": [
+    "mon",
+    "tue"
+   ],
+   "time_window": "",
+   "requirements": [],
+   "how_to_redeem": "Order in-store, online, or via app",
+   "participating_locations": false,
+   "delivery_only": false,
+   "needs_cooking": false,
+   "evidence": "70\u00a2 wings at Wingstop when you order in-store, online, or through the app",
+   "source_kind": "roundup",
+   "source_url": "https://hip2save.com/deals/cheap-eats/",
+   "price_label": "$0.70",
+   "group": "fast_food",
+   "check_first": false
+  },
+  {
+   "business": "Chili's",
+   "item": "3 for Me menu: entr\u00e9e, appetizer, and drink",
+   "category": "restaurant",
+   "area": "cedar_city",
+   "addresses": [
+    "1237 Sage Dr, Cedar City, UT 84720"
+   ],
+   "tier": 1,
+   "price": 10.99,
+   "regular_price": null,
+   "cost": 10.99,
+   "percent": 0,
+   "free": false,
+   "min_purchase": null,
+   "est_calories": 1400,
+   "calories_per_dollar": 127,
+   "start_date": "",
+   "end_date": "",
+   "days_of_week": [],
+   "time_window": "",
+   "requirements": [],
+   "how_to_redeem": "Order from the 3 for Me menu",
+   "participating_locations": false,
+   "delivery_only": false,
+   "needs_cooking": false,
+   "evidence": "3 for Me Menu starts at just $10.99",
+   "source_kind": "roundup",
+   "source_url": "https://hip2save.com/deals/cheap-eats/",
+   "price_label": "$10.99",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -527,11 +781,12 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$7.99",
+   "group": "grocery",
    "check_first": false
   },
   {
    "business": "Wendy's",
-   "item": "Dave's Single Combo Meal",
+   "item": "Dave's Single Combo Meal (burger, small fry, small drink)",
    "category": "restaurant",
    "area": "cedar_city",
    "addresses": [
@@ -551,7 +806,7 @@
    "days_of_week": [],
    "time_window": "",
    "requirements": [],
-   "how_to_redeem": "Order online, in app, in-restaurant, or drive-thru",
+   "how_to_redeem": "Order online, in app, in restaurant, or drive-thru",
    "participating_locations": true,
    "delivery_only": false,
    "needs_cooking": false,
@@ -559,11 +814,12 @@
    "source_kind": "roundup",
    "source_url": "https://hip2save.com/deals/cheap-eats/",
    "price_label": "$7.99",
+   "group": "fast_food",
    "check_first": false
   },
   {
    "business": "Subway",
-   "item": "6-inch sub, small drink, chips or 2 cookies meal",
+   "item": "6-inch sub, small drink, and chips or 2 cookies",
    "category": "restaurant",
    "area": "cedar_city",
    "addresses": [
@@ -585,7 +841,7 @@
    "days_of_week": [],
    "time_window": "",
    "requirements": [],
-   "how_to_redeem": "Order the Sub of the Day meal",
+   "how_to_redeem": "Order the meal deal",
    "participating_locations": true,
    "delivery_only": false,
    "needs_cooking": false,
@@ -593,38 +849,7 @@
    "source_kind": "roundup",
    "source_url": "https://hip2save.com/deals/cheap-eats/",
    "price_label": "$6.99",
-   "check_first": false
-  },
-  {
-   "business": "Chili's",
-   "item": "3 for Me: entr\u00e9e, appetizer, and drink",
-   "category": "restaurant",
-   "area": "cedar_city",
-   "addresses": [
-    "1237 Sage Dr, Cedar City, UT 84720"
-   ],
-   "tier": 1,
-   "price": 10.99,
-   "regular_price": null,
-   "cost": 10.99,
-   "percent": 0,
-   "free": false,
-   "min_purchase": null,
-   "est_calories": 1300,
-   "calories_per_dollar": 118,
-   "start_date": "",
-   "end_date": "",
-   "days_of_week": [],
-   "time_window": "",
-   "requirements": [],
-   "how_to_redeem": "Order from 3 for Me menu; prices may vary",
-   "participating_locations": false,
-   "delivery_only": false,
-   "needs_cooking": false,
-   "evidence": "3 for Me Menu starts at just $10.99",
-   "source_kind": "roundup",
-   "source_url": "https://hip2save.com/deals/cheap-eats/",
-   "price_label": "$10.99",
+   "group": "fast_food",
    "check_first": false
   },
   {
@@ -663,6 +888,7 @@
    "source_kind": "web",
    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
    "price_label": "$10.95",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -696,6 +922,7 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$1.00",
+   "group": "dollar",
    "check_first": false
   },
   {
@@ -728,41 +955,7 @@
    "source_kind": "web",
    "source_url": "https://www.kabutoutah.com/express-lunch",
    "price_label": "$9.99",
-   "check_first": false
-  },
-  {
-   "business": "Wingstop",
-   "item": "Boneless wings at 70\u00a2 each",
-   "category": "restaurant",
-   "area": "cedar_city",
-   "addresses": [
-    "1409 S Old Hwy 91 Unit 103, Cedar City, UT 84720"
-   ],
-   "tier": 1,
-   "price": 0.7,
-   "regular_price": null,
-   "cost": 0.7,
-   "percent": 0,
-   "free": false,
-   "min_purchase": null,
-   "est_calories": 70,
-   "calories_per_dollar": 100,
-   "start_date": "",
-   "end_date": "",
-   "days_of_week": [
-    "mon",
-    "tue"
-   ],
-   "time_window": "",
-   "requirements": [],
-   "how_to_redeem": "Order in-store, online, or through the app",
-   "participating_locations": false,
-   "delivery_only": false,
-   "needs_cooking": false,
-   "evidence": "70\u00a2 wings at Wingstop when you order in-store, online, or through the app",
-   "source_kind": "roundup",
-   "source_url": "https://hip2save.com/deals/cheap-eats/",
-   "price_label": "$0.70",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -801,6 +994,7 @@
    "source_kind": "web",
    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
    "price_label": "$11.95",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -839,6 +1033,7 @@
    "source_kind": "web",
    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
    "price_label": "$11.95",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -873,38 +1068,42 @@
    "source_kind": "roundup",
    "source_url": "https://hip2save.com/deals/cheap-eats/",
    "price_label": "$4.99",
+   "group": "fast_food",
    "check_first": false
   },
   {
-   "business": "Chili's",
-   "item": "Party Platter Triple Dipper (serves up to 8)",
+   "business": "Subway",
+   "item": "Protein Pocket (20g+ protein)",
    "category": "restaurant",
    "area": "cedar_city",
    "addresses": [
-    "1237 Sage Dr, Cedar City, UT 84720"
+    "667 S Main St, Cedar City, UT 84720",
+    "1485 W 200 N, Cedar City, UT 84720",
+    "1322 S Providence Center Dr, Cedar City, UT 84720"
    ],
    "tier": 1,
-   "price": 57.99,
+   "price": 3.99,
    "regular_price": null,
-   "cost": 57.99,
+   "cost": 3.99,
    "percent": 0,
    "free": false,
    "min_purchase": null,
-   "est_calories": 5000,
-   "calories_per_dollar": 86,
+   "est_calories": 350,
+   "calories_per_dollar": 88,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
    "time_window": "",
    "requirements": [],
-   "how_to_redeem": "Order Party Platter; some choices cost extra",
-   "participating_locations": false,
+   "how_to_redeem": "Order a Protein Pocket",
+   "participating_locations": true,
    "delivery_only": false,
    "needs_cooking": false,
-   "evidence": "Party Platter Triple Dipper serves up to eight people for $57.99",
+   "evidence": "Subway Protein Pocket with more than 20 grams of protein for just $3.99",
    "source_kind": "roundup",
    "source_url": "https://hip2save.com/deals/cheap-eats/",
-   "price_label": "$57.99",
+   "price_label": "$3.99",
+   "group": "fast_food",
    "check_first": false
   },
   {
@@ -943,6 +1142,7 @@
    "source_kind": "web",
    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
    "price_label": "$10.45",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -981,6 +1181,7 @@
    "source_kind": "web",
    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
    "price_label": "$12.95",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1019,6 +1220,7 @@
    "source_kind": "web",
    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
    "price_label": "$11.95",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1057,6 +1259,7 @@
    "source_kind": "web",
    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
    "price_label": "$10.95",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1095,6 +1298,7 @@
    "source_kind": "web",
    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
    "price_label": "$9.25",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1133,6 +1337,7 @@
    "source_kind": "web",
    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
    "price_label": "$10.45",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1171,6 +1376,7 @@
    "source_kind": "web",
    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
    "price_label": "$11.45",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1209,6 +1415,7 @@
    "source_kind": "web",
    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
    "price_label": "$12.95",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1247,6 +1454,7 @@
    "source_kind": "web",
    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
    "price_label": "$10.45",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1285,40 +1493,7 @@
    "source_kind": "web",
    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
    "price_label": "$11.95",
-   "check_first": false
-  },
-  {
-   "business": "Subway",
-   "item": "Protein Pocket (20g+ protein)",
-   "category": "restaurant",
-   "area": "cedar_city",
-   "addresses": [
-    "667 S Main St, Cedar City, UT 84720",
-    "1485 W 200 N, Cedar City, UT 84720",
-    "1322 S Providence Center Dr, Cedar City, UT 84720"
-   ],
-   "tier": 1,
-   "price": 3.99,
-   "regular_price": null,
-   "cost": 3.99,
-   "percent": 0,
-   "free": false,
-   "min_purchase": null,
-   "est_calories": 300,
-   "calories_per_dollar": 75,
-   "start_date": "",
-   "end_date": "",
-   "days_of_week": [],
-   "time_window": "",
-   "requirements": [],
-   "how_to_redeem": "Order Protein Pocket",
-   "participating_locations": true,
-   "delivery_only": false,
-   "needs_cooking": false,
-   "evidence": "Subway Protein Pocket with more than 20 grams of protein for just $3.99",
-   "source_kind": "roundup",
-   "source_url": "https://hip2save.com/deals/cheap-eats/",
-   "price_label": "$3.99",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1357,6 +1532,7 @@
    "source_kind": "web",
    "source_url": "https://sweetbasilthaiutah.com",
    "price_label": "$11.99",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1395,6 +1571,7 @@
    "source_kind": "web",
    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
    "price_label": "$11.95",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1433,6 +1610,7 @@
    "source_kind": "web",
    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
    "price_label": "$11.95",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1471,6 +1649,7 @@
    "source_kind": "web",
    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
    "price_label": "$11.25",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1509,6 +1688,7 @@
    "source_kind": "web",
    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
    "price_label": "$10.95",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1541,6 +1721,7 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$6.99",
+   "group": "grocery",
    "check_first": false
   },
   {
@@ -1579,6 +1760,7 @@
    "source_kind": "web",
    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
    "price_label": "$12.45",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1617,11 +1799,12 @@
    "source_kind": "web",
    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
    "price_label": "$12.95",
+   "group": "restaurant",
    "check_first": false
   },
   {
    "business": "Applebee's",
-   "item": "6 free Boneless Wings with $15 online purchase",
+   "item": "6 free boneless wings with $15 online purchase",
    "category": "restaurant",
    "area": "cedar_city",
    "addresses": [
@@ -1642,10 +1825,9 @@
    "time_window": "",
    "requirements": [
     "Club Applebee's membership",
-    "NFL Season Wing Ticket",
     "online order"
    ],
-   "how_to_redeem": "Club Applebee's members get NFL Season Wing Ticket; weekly with $15 online purchase",
+   "how_to_redeem": "Sign up for NFL Season Wing Ticket; order $15+ online",
    "participating_locations": false,
    "delivery_only": false,
    "needs_cooking": false,
@@ -1653,6 +1835,7 @@
    "source_kind": "roundup",
    "source_url": "https://hip2save.com/deals/cheap-eats/",
    "price_label": "Free with purchase",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1685,6 +1868,7 @@
    "source_kind": "web",
    "source_url": "https://www.piscoperuvian.com/landing-page",
    "price_label": "Free with purchase",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1717,171 +1901,7 @@
    "source_kind": "web",
    "source_url": "https://www.piscoperuvian.com/landing-page",
    "price_label": "Free with purchase",
-   "check_first": false
-  },
-  {
-   "business": "Smith's",
-   "item": "Fresh Baked Cookies",
-   "category": "gas_convenience",
-   "area": "cedar_city",
-   "addresses": [
-    "633 S Main St, Cedar City, UT 84720",
-    "633 S Main St, Cedar City, UT 84720"
-   ],
-   "tier": 2,
-   "price": 3.0,
-   "regular_price": null,
-   "cost": 3.0,
-   "percent": 0,
-   "free": false,
-   "min_purchase": null,
-   "est_calories": null,
-   "calories_per_dollar": null,
-   "start_date": "2026-11-04",
-   "end_date": "2026-11-10",
-   "days_of_week": [],
-   "time_window": "",
-   "requirements": [],
-   "how_to_redeem": "Weekly ad price in store",
-   "participating_locations": false,
-   "delivery_only": false,
-   "needs_cooking": false,
-   "evidence": "Fresh Baked Cookies | $3.0",
-   "source_kind": "flyer",
-   "source_url": "https://flipp.com/",
-   "price_label": "$3.00",
-   "check_first": false
-  },
-  {
-   "business": "Smith's",
-   "item": "Glazed Donuts",
-   "category": "gas_convenience",
-   "area": "cedar_city",
-   "addresses": [
-    "633 S Main St, Cedar City, UT 84720",
-    "633 S Main St, Cedar City, UT 84720"
-   ],
-   "tier": 2,
-   "price": 5.0,
-   "regular_price": null,
-   "cost": 5.0,
-   "percent": 0,
-   "free": false,
-   "min_purchase": null,
-   "est_calories": null,
-   "calories_per_dollar": null,
-   "start_date": "2026-11-04",
-   "end_date": "2026-11-10",
-   "days_of_week": [],
-   "time_window": "",
-   "requirements": [],
-   "how_to_redeem": "Weekly ad price in store",
-   "participating_locations": false,
-   "delivery_only": false,
-   "needs_cooking": false,
-   "evidence": "Glazed Donuts | $5.0",
-   "source_kind": "flyer",
-   "source_url": "https://flipp.com/",
-   "price_label": "$5.00",
-   "check_first": false
-  },
-  {
-   "business": "Smith's",
-   "item": "Blueberry Muffins",
-   "category": "gas_convenience",
-   "area": "cedar_city",
-   "addresses": [
-    "633 S Main St, Cedar City, UT 84720",
-    "633 S Main St, Cedar City, UT 84720"
-   ],
-   "tier": 2,
-   "price": 5.0,
-   "regular_price": null,
-   "cost": 5.0,
-   "percent": 0,
-   "free": false,
-   "min_purchase": null,
-   "est_calories": null,
-   "calories_per_dollar": null,
-   "start_date": "2026-11-04",
-   "end_date": "2026-11-10",
-   "days_of_week": [],
-   "time_window": "",
-   "requirements": [],
-   "how_to_redeem": "Weekly ad price in store",
-   "participating_locations": false,
-   "delivery_only": false,
-   "needs_cooking": false,
-   "evidence": "Blueberry Muffins | $5.0",
-   "source_kind": "flyer",
-   "source_url": "https://flipp.com/",
-   "price_label": "$5.00",
-   "check_first": false
-  },
-  {
-   "business": "Smith's",
-   "item": "Brownie Bites",
-   "category": "gas_convenience",
-   "area": "cedar_city",
-   "addresses": [
-    "633 S Main St, Cedar City, UT 84720",
-    "633 S Main St, Cedar City, UT 84720"
-   ],
-   "tier": 2,
-   "price": 5.0,
-   "regular_price": null,
-   "cost": 5.0,
-   "percent": 0,
-   "free": false,
-   "min_purchase": null,
-   "est_calories": null,
-   "calories_per_dollar": null,
-   "start_date": "2026-11-04",
-   "end_date": "2026-11-10",
-   "days_of_week": [],
-   "time_window": "",
-   "requirements": [],
-   "how_to_redeem": "Weekly ad price in store",
-   "participating_locations": false,
-   "delivery_only": false,
-   "needs_cooking": false,
-   "evidence": "Brownie Bites | $5.0",
-   "source_kind": "flyer",
-   "source_url": "https://flipp.com/",
-   "price_label": "$5.00",
-   "check_first": false
-  },
-  {
-   "business": "Smith's",
-   "item": "Mini Cupcakes",
-   "category": "gas_convenience",
-   "area": "cedar_city",
-   "addresses": [
-    "633 S Main St, Cedar City, UT 84720",
-    "633 S Main St, Cedar City, UT 84720"
-   ],
-   "tier": 2,
-   "price": 5.0,
-   "regular_price": null,
-   "cost": 5.0,
-   "percent": 0,
-   "free": false,
-   "min_purchase": null,
-   "est_calories": null,
-   "calories_per_dollar": null,
-   "start_date": "2026-11-04",
-   "end_date": "2026-11-10",
-   "days_of_week": [],
-   "time_window": "",
-   "requirements": [],
-   "how_to_redeem": "Weekly ad price in store",
-   "participating_locations": false,
-   "delivery_only": false,
-   "needs_cooking": false,
-   "evidence": "Mini Cupcakes | $5.0",
-   "source_kind": "flyer",
-   "source_url": "https://flipp.com/",
-   "price_label": "$5.00",
+   "group": "restaurant",
    "check_first": false
   },
   {
@@ -1914,6 +1934,7 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$5.49",
+   "group": "dollar",
    "check_first": false
   },
   {
@@ -1946,6 +1967,7 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$0.69",
+   "group": "dollar",
    "check_first": false
   },
   {
@@ -1979,6 +2001,7 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$1.99",
+   "group": "gas",
    "check_first": false
   },
   {
@@ -2011,6 +2034,7 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$13.14",
+   "group": "grocery",
    "check_first": false
   },
   {
@@ -2043,6 +2067,7 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$1.49",
+   "group": "grocery",
    "check_first": false
   },
   {
@@ -2076,6 +2101,7 @@
    "source_kind": "flyer",
    "source_url": "https://flipp.com/",
    "price_label": "$12.00",
+   "group": "gas",
    "check_first": false
   }
  ],
@@ -2115,8 +2141,45 @@
     "needs_cooking": false,
     "evidence": "Bacon Cheeseburger Served with fries and a drink $9.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$9.95",
+    "group": "restaurant",
+    "check_first": false
+   },
+   {
+    "business": "Wingstop",
+    "item": "Boneless wings at 70\u00a2 each",
+    "category": "restaurant",
+    "area": "cedar_city",
+    "addresses": [
+     "1409 S Old Hwy 91 Unit 103, Cedar City, UT 84720"
+    ],
+    "tier": 1,
+    "price": 0.7,
+    "regular_price": null,
+    "cost": 0.7,
+    "percent": 0,
+    "free": false,
+    "min_purchase": null,
+    "est_calories": 90,
+    "calories_per_dollar": 129,
+    "start_date": "",
+    "end_date": "",
+    "days_of_week": [
+     "mon",
+     "tue"
+    ],
+    "time_window": "",
+    "requirements": [],
+    "how_to_redeem": "Order in-store, online, or via app",
+    "participating_locations": false,
+    "delivery_only": false,
+    "needs_cooking": false,
+    "evidence": "70\u00a2 wings at Wingstop when you order in-store, online, or through the app",
+    "source_kind": "roundup",
+    "source_url": "https://hip2save.com/deals/cheap-eats/",
+    "price_label": "$0.70",
+    "group": "fast_food",
     "check_first": false
    },
    {
@@ -2153,43 +2216,9 @@
     "needs_cooking": false,
     "evidence": "Spicy or Crispy Chicken Sandwich Served with fries and a drink $10.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$10.95",
-    "check_first": false
-   },
-   {
-    "business": "Wingstop",
-    "item": "Boneless wings at 70\u00a2 each",
-    "category": "restaurant",
-    "area": "cedar_city",
-    "addresses": [
-     "1409 S Old Hwy 91 Unit 103, Cedar City, UT 84720"
-    ],
-    "tier": 1,
-    "price": 0.7,
-    "regular_price": null,
-    "cost": 0.7,
-    "percent": 0,
-    "free": false,
-    "min_purchase": null,
-    "est_calories": 70,
-    "calories_per_dollar": 100,
-    "start_date": "",
-    "end_date": "",
-    "days_of_week": [
-     "mon",
-     "tue"
-    ],
-    "time_window": "",
-    "requirements": [],
-    "how_to_redeem": "Order in-store, online, or through the app",
-    "participating_locations": false,
-    "delivery_only": false,
-    "needs_cooking": false,
-    "evidence": "70\u00a2 wings at Wingstop when you order in-store, online, or through the app",
-    "source_kind": "web",
-    "source_url": "",
-    "price_label": "$0.70",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2226,8 +2255,9 @@
     "needs_cooking": false,
     "evidence": "Boneless Wings (8 pcs) Served with fries and a drink $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2264,8 +2294,9 @@
     "needs_cooking": false,
     "evidence": "DC's BLT Served with fries and a drink $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2302,8 +2333,9 @@
     "needs_cooking": false,
     "evidence": "l-7 Taquito ... $10.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2340,8 +2372,9 @@
     "needs_cooking": false,
     "evidence": "Pick your favorite two! ... $12.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$12.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2378,8 +2411,9 @@
     "needs_cooking": false,
     "evidence": "l-5 Grande burrito ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2416,8 +2450,9 @@
     "needs_cooking": false,
     "evidence": "l-3 burrito ... $10.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2454,8 +2489,9 @@
     "needs_cooking": false,
     "evidence": "l-2 Enchilada ... $9.25",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$9.25",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2492,8 +2528,9 @@
     "needs_cooking": false,
     "evidence": "l-4 Chile relleno ... $10.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2530,8 +2567,9 @@
     "needs_cooking": false,
     "evidence": "l-6 Quesadilla ... $11.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2568,8 +2606,9 @@
     "needs_cooking": false,
     "evidence": "Bone-In Wings (6 pcs) Served with fries and a drink $12.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$12.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2606,8 +2645,9 @@
     "needs_cooking": false,
     "evidence": "Valid Monday-Friday 11 am - 2 pm L-1 Taco $10.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2644,8 +2684,9 @@
     "needs_cooking": false,
     "evidence": "l-9 taco salad ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2682,8 +2723,9 @@
     "needs_cooking": false,
     "evidence": "Lunch Specials Monday \u2013 Friday from 11:00am \u2013 3:00pm $11.99",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://sweetbasilthaiutah.com",
     "price_label": "$11.99",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2720,8 +2762,9 @@
     "needs_cooking": false,
     "evidence": "l-14 chicken tender wrap ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2758,8 +2801,9 @@
     "needs_cooking": false,
     "evidence": "l-15 turkey club wrap ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2796,8 +2840,9 @@
     "needs_cooking": false,
     "evidence": "l-10 chicken tender salad ... $11.25",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.25",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2834,8 +2879,9 @@
     "needs_cooking": false,
     "evidence": "l-12 O.g.'s buffalo chicken salad ... $10.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2872,8 +2918,9 @@
     "needs_cooking": false,
     "evidence": "l-11 grilled chicken salad ... $12.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$12.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -2910,8 +2957,9 @@
     "needs_cooking": false,
     "evidence": "l-13 soup & salad ... $12.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$12.95",
+    "group": "restaurant",
     "check_first": false
    }
   ],
@@ -2948,9 +2996,10 @@
     "delivery_only": false,
     "needs_cooking": false,
     "evidence": "two tacos for just $0.75 with any in-app purchase",
-    "source_kind": "web",
-    "source_url": "",
+    "source_kind": "roundup",
+    "source_url": "https://sporked.com/article/every-fast-food-deal-this-week-8/",
     "price_label": "$0.75",
+    "group": "fast_food",
     "check_first": false
    },
    {
@@ -2977,14 +3026,15 @@
     ],
     "time_window": "",
     "requirements": [],
-    "how_to_redeem": "Tuesday deal, limit 4 per customer",
+    "how_to_redeem": "Order on Tuesday",
     "participating_locations": true,
     "delivery_only": false,
     "needs_cooking": false,
     "evidence": "$3 1-Topping Personal Pan Pizza every Tuesday",
-    "source_kind": "web",
-    "source_url": "",
+    "source_kind": "roundup",
+    "source_url": "https://hip2save.com/deals/cheap-eats/",
     "price_label": "$3.00",
+    "group": "fast_food",
     "check_first": false
    },
    {
@@ -3021,8 +3071,45 @@
     "needs_cooking": false,
     "evidence": "Bacon Cheeseburger Served with fries and a drink $9.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$9.95",
+    "group": "restaurant",
+    "check_first": false
+   },
+   {
+    "business": "Wingstop",
+    "item": "Boneless wings at 70\u00a2 each",
+    "category": "restaurant",
+    "area": "cedar_city",
+    "addresses": [
+     "1409 S Old Hwy 91 Unit 103, Cedar City, UT 84720"
+    ],
+    "tier": 1,
+    "price": 0.7,
+    "regular_price": null,
+    "cost": 0.7,
+    "percent": 0,
+    "free": false,
+    "min_purchase": null,
+    "est_calories": 90,
+    "calories_per_dollar": 129,
+    "start_date": "",
+    "end_date": "",
+    "days_of_week": [
+     "mon",
+     "tue"
+    ],
+    "time_window": "",
+    "requirements": [],
+    "how_to_redeem": "Order in-store, online, or via app",
+    "participating_locations": false,
+    "delivery_only": false,
+    "needs_cooking": false,
+    "evidence": "70\u00a2 wings at Wingstop when you order in-store, online, or through the app",
+    "source_kind": "roundup",
+    "source_url": "https://hip2save.com/deals/cheap-eats/",
+    "price_label": "$0.70",
+    "group": "fast_food",
     "check_first": false
    },
    {
@@ -3059,43 +3146,9 @@
     "needs_cooking": false,
     "evidence": "Spicy or Crispy Chicken Sandwich Served with fries and a drink $10.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$10.95",
-    "check_first": false
-   },
-   {
-    "business": "Wingstop",
-    "item": "Boneless wings at 70\u00a2 each",
-    "category": "restaurant",
-    "area": "cedar_city",
-    "addresses": [
-     "1409 S Old Hwy 91 Unit 103, Cedar City, UT 84720"
-    ],
-    "tier": 1,
-    "price": 0.7,
-    "regular_price": null,
-    "cost": 0.7,
-    "percent": 0,
-    "free": false,
-    "min_purchase": null,
-    "est_calories": 70,
-    "calories_per_dollar": 100,
-    "start_date": "",
-    "end_date": "",
-    "days_of_week": [
-     "mon",
-     "tue"
-    ],
-    "time_window": "",
-    "requirements": [],
-    "how_to_redeem": "Order in-store, online, or through the app",
-    "participating_locations": false,
-    "delivery_only": false,
-    "needs_cooking": false,
-    "evidence": "70\u00a2 wings at Wingstop when you order in-store, online, or through the app",
-    "source_kind": "web",
-    "source_url": "",
-    "price_label": "$0.70",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3132,8 +3185,9 @@
     "needs_cooking": false,
     "evidence": "Boneless Wings (8 pcs) Served with fries and a drink $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3170,8 +3224,9 @@
     "needs_cooking": false,
     "evidence": "DC's BLT Served with fries and a drink $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3208,8 +3263,9 @@
     "needs_cooking": false,
     "evidence": "l-7 Taquito ... $10.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3246,8 +3302,9 @@
     "needs_cooking": false,
     "evidence": "Pick your favorite two! ... $12.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$12.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3284,8 +3341,9 @@
     "needs_cooking": false,
     "evidence": "l-5 Grande burrito ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3322,8 +3380,9 @@
     "needs_cooking": false,
     "evidence": "l-3 burrito ... $10.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3360,8 +3419,9 @@
     "needs_cooking": false,
     "evidence": "l-2 Enchilada ... $9.25",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$9.25",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3398,8 +3458,9 @@
     "needs_cooking": false,
     "evidence": "l-4 Chile relleno ... $10.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3436,8 +3497,9 @@
     "needs_cooking": false,
     "evidence": "l-6 Quesadilla ... $11.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3474,8 +3536,9 @@
     "needs_cooking": false,
     "evidence": "Bone-In Wings (6 pcs) Served with fries and a drink $12.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$12.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3512,8 +3575,9 @@
     "needs_cooking": false,
     "evidence": "Valid Monday-Friday 11 am - 2 pm L-1 Taco $10.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3550,8 +3614,9 @@
     "needs_cooking": false,
     "evidence": "l-9 taco salad ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3588,8 +3653,9 @@
     "needs_cooking": false,
     "evidence": "Lunch Specials Monday \u2013 Friday from 11:00am \u2013 3:00pm $11.99",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://sweetbasilthaiutah.com",
     "price_label": "$11.99",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3626,8 +3692,9 @@
     "needs_cooking": false,
     "evidence": "l-14 chicken tender wrap ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3664,8 +3731,9 @@
     "needs_cooking": false,
     "evidence": "l-15 turkey club wrap ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3702,8 +3770,9 @@
     "needs_cooking": false,
     "evidence": "l-10 chicken tender salad ... $11.25",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.25",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3740,8 +3809,9 @@
     "needs_cooking": false,
     "evidence": "l-12 O.g.'s buffalo chicken salad ... $10.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3778,8 +3848,9 @@
     "needs_cooking": false,
     "evidence": "l-11 grilled chicken salad ... $12.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$12.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3816,8 +3887,9 @@
     "needs_cooking": false,
     "evidence": "l-13 soup & salad ... $12.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$12.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3835,7 +3907,7 @@
     "percent": 0,
     "free": false,
     "min_purchase": null,
-    "est_calories": null,
+    "est_calories": 600,
     "calories_per_dollar": null,
     "start_date": "",
     "end_date": "",
@@ -3850,8 +3922,9 @@
     "needs_cooking": false,
     "evidence": "first Dip & Sip Tuesday! You'll save more than $5 with this combo",
     "source_kind": "facebook",
-    "source_url": "",
+    "source_url": "https://www.facebook.com/profile.php?id=61592442676221",
     "price_label": "See deal",
+    "group": "sweets",
     "check_first": true
    }
   ],
@@ -3890,8 +3963,9 @@
     "needs_cooking": false,
     "evidence": "Bacon Cheeseburger Served with fries and a drink $9.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$9.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3928,8 +4002,9 @@
     "needs_cooking": false,
     "evidence": "Spicy or Crispy Chicken Sandwich Served with fries and a drink $10.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$10.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -3966,8 +4041,9 @@
     "needs_cooking": false,
     "evidence": "Boneless Wings (8 pcs) Served with fries and a drink $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4004,8 +4080,9 @@
     "needs_cooking": false,
     "evidence": "DC's BLT Served with fries and a drink $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4042,8 +4119,9 @@
     "needs_cooking": false,
     "evidence": "l-7 Taquito ... $10.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4080,8 +4158,9 @@
     "needs_cooking": false,
     "evidence": "Pick your favorite two! ... $12.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$12.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4118,8 +4197,9 @@
     "needs_cooking": false,
     "evidence": "l-5 Grande burrito ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4156,8 +4236,9 @@
     "needs_cooking": false,
     "evidence": "l-3 burrito ... $10.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4194,8 +4275,9 @@
     "needs_cooking": false,
     "evidence": "l-2 Enchilada ... $9.25",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$9.25",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4232,8 +4314,9 @@
     "needs_cooking": false,
     "evidence": "l-4 Chile relleno ... $10.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4270,8 +4353,9 @@
     "needs_cooking": false,
     "evidence": "l-6 Quesadilla ... $11.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4308,8 +4392,9 @@
     "needs_cooking": false,
     "evidence": "Bone-In Wings (6 pcs) Served with fries and a drink $12.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$12.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4346,8 +4431,9 @@
     "needs_cooking": false,
     "evidence": "Valid Monday-Friday 11 am - 2 pm L-1 Taco $10.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4384,8 +4470,9 @@
     "needs_cooking": false,
     "evidence": "l-9 taco salad ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4422,8 +4509,9 @@
     "needs_cooking": false,
     "evidence": "Lunch Specials Monday \u2013 Friday from 11:00am \u2013 3:00pm $11.99",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://sweetbasilthaiutah.com",
     "price_label": "$11.99",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4460,8 +4548,9 @@
     "needs_cooking": false,
     "evidence": "l-14 chicken tender wrap ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4498,8 +4587,9 @@
     "needs_cooking": false,
     "evidence": "l-15 turkey club wrap ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4536,8 +4626,9 @@
     "needs_cooking": false,
     "evidence": "l-10 chicken tender salad ... $11.25",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.25",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4574,8 +4665,9 @@
     "needs_cooking": false,
     "evidence": "l-12 O.g.'s buffalo chicken salad ... $10.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4612,8 +4704,9 @@
     "needs_cooking": false,
     "evidence": "l-11 grilled chicken salad ... $12.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$12.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4650,8 +4743,9 @@
     "needs_cooking": false,
     "evidence": "l-13 soup & salad ... $12.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$12.95",
+    "group": "restaurant",
     "check_first": false
    }
   ],
@@ -4690,8 +4784,9 @@
     "needs_cooking": false,
     "evidence": "Bacon Cheeseburger Served with fries and a drink $9.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$9.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4728,8 +4823,9 @@
     "needs_cooking": false,
     "evidence": "Spicy or Crispy Chicken Sandwich Served with fries and a drink $10.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$10.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4766,8 +4862,9 @@
     "needs_cooking": false,
     "evidence": "Boneless Wings (8 pcs) Served with fries and a drink $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4804,8 +4901,9 @@
     "needs_cooking": false,
     "evidence": "DC's BLT Served with fries and a drink $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4842,8 +4940,9 @@
     "needs_cooking": false,
     "evidence": "l-7 Taquito ... $10.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4880,8 +4979,9 @@
     "needs_cooking": false,
     "evidence": "Pick your favorite two! ... $12.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$12.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4918,8 +5018,9 @@
     "needs_cooking": false,
     "evidence": "l-5 Grande burrito ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4956,8 +5057,9 @@
     "needs_cooking": false,
     "evidence": "l-3 burrito ... $10.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -4994,8 +5096,9 @@
     "needs_cooking": false,
     "evidence": "l-2 Enchilada ... $9.25",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$9.25",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5032,8 +5135,9 @@
     "needs_cooking": false,
     "evidence": "l-4 Chile relleno ... $10.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5070,8 +5174,9 @@
     "needs_cooking": false,
     "evidence": "l-6 Quesadilla ... $11.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5108,8 +5213,9 @@
     "needs_cooking": false,
     "evidence": "Bone-In Wings (6 pcs) Served with fries and a drink $12.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$12.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5146,8 +5252,9 @@
     "needs_cooking": false,
     "evidence": "Valid Monday-Friday 11 am - 2 pm L-1 Taco $10.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5184,8 +5291,9 @@
     "needs_cooking": false,
     "evidence": "l-9 taco salad ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5222,8 +5330,9 @@
     "needs_cooking": false,
     "evidence": "Lunch Specials Monday \u2013 Friday from 11:00am \u2013 3:00pm $11.99",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://sweetbasilthaiutah.com",
     "price_label": "$11.99",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5260,8 +5369,9 @@
     "needs_cooking": false,
     "evidence": "l-14 chicken tender wrap ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5298,8 +5408,9 @@
     "needs_cooking": false,
     "evidence": "l-15 turkey club wrap ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5336,8 +5447,9 @@
     "needs_cooking": false,
     "evidence": "l-10 chicken tender salad ... $11.25",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.25",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5374,8 +5486,9 @@
     "needs_cooking": false,
     "evidence": "l-12 O.g.'s buffalo chicken salad ... $10.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5412,8 +5525,9 @@
     "needs_cooking": false,
     "evidence": "l-11 grilled chicken salad ... $12.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$12.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5450,8 +5564,9 @@
     "needs_cooking": false,
     "evidence": "l-13 soup & salad ... $12.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$12.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5487,8 +5602,9 @@
     "needs_cooking": false,
     "evidence": "Every Thursday, Dixie Rewards members age 55 and better save 10%",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dixienutrition.com/pages/discounts-and-rewards",
     "price_label": "10% off",
+    "group": "grocery",
     "check_first": false
    }
   ],
@@ -5527,8 +5643,9 @@
     "needs_cooking": false,
     "evidence": "Bacon Cheeseburger Served with fries and a drink $9.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$9.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5565,8 +5682,9 @@
     "needs_cooking": false,
     "evidence": "Spicy or Crispy Chicken Sandwich Served with fries and a drink $10.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$10.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5603,8 +5721,9 @@
     "needs_cooking": false,
     "evidence": "Boneless Wings (8 pcs) Served with fries and a drink $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5641,8 +5760,9 @@
     "needs_cooking": false,
     "evidence": "DC's BLT Served with fries and a drink $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5679,8 +5799,9 @@
     "needs_cooking": false,
     "evidence": "l-7 Taquito ... $10.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5717,8 +5838,9 @@
     "needs_cooking": false,
     "evidence": "Pick your favorite two! ... $12.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$12.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5755,8 +5877,9 @@
     "needs_cooking": false,
     "evidence": "l-5 Grande burrito ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5793,8 +5916,9 @@
     "needs_cooking": false,
     "evidence": "l-3 burrito ... $10.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5831,8 +5955,9 @@
     "needs_cooking": false,
     "evidence": "l-2 Enchilada ... $9.25",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$9.25",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5869,8 +5994,9 @@
     "needs_cooking": false,
     "evidence": "l-4 Chile relleno ... $10.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5907,8 +6033,9 @@
     "needs_cooking": false,
     "evidence": "l-6 Quesadilla ... $11.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5945,8 +6072,9 @@
     "needs_cooking": false,
     "evidence": "Bone-In Wings (6 pcs) Served with fries and a drink $12.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$12.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -5983,8 +6111,9 @@
     "needs_cooking": false,
     "evidence": "Valid Monday-Friday 11 am - 2 pm L-1 Taco $10.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -6021,8 +6150,9 @@
     "needs_cooking": false,
     "evidence": "l-9 taco salad ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -6059,8 +6189,9 @@
     "needs_cooking": false,
     "evidence": "Lunch Specials Monday \u2013 Friday from 11:00am \u2013 3:00pm $11.99",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://sweetbasilthaiutah.com",
     "price_label": "$11.99",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -6097,8 +6228,9 @@
     "needs_cooking": false,
     "evidence": "l-14 chicken tender wrap ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -6135,8 +6267,9 @@
     "needs_cooking": false,
     "evidence": "l-15 turkey club wrap ... $11.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -6173,8 +6306,9 @@
     "needs_cooking": false,
     "evidence": "l-10 chicken tender salad ... $11.25",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$11.25",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -6211,8 +6345,9 @@
     "needs_cooking": false,
     "evidence": "l-12 O.g.'s buffalo chicken salad ... $10.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$10.95",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -6249,8 +6384,9 @@
     "needs_cooking": false,
     "evidence": "l-11 grilled chicken salad ... $12.45",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$12.45",
+    "group": "restaurant",
     "check_first": false
    },
    {
@@ -6287,8 +6423,9 @@
     "needs_cooking": false,
     "evidence": "l-13 soup & salad ... $12.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "http://www.lasfloresfamilymexicanrestaurant.com/blank-4/",
     "price_label": "$12.95",
+    "group": "restaurant",
     "check_first": false
    }
   ],
@@ -6326,9 +6463,10 @@
     "delivery_only": false,
     "needs_cooking": false,
     "evidence": "rewards members can save half off a Dave's Single with any purchase",
-    "source_kind": "web",
-    "source_url": "",
+    "source_kind": "roundup",
+    "source_url": "https://sporked.com/article/every-fast-food-deal-this-week-8/",
     "price_label": "50% off",
+    "group": "fast_food",
     "check_first": false
    }
   ],
@@ -6363,8 +6501,9 @@
     "needs_cooking": false,
     "evidence": "Sunday 8oz sirloin and shrimp $17.95",
     "source_kind": "web",
-    "source_url": "",
+    "source_url": "https://www.dcpubandgrill.com/specials-cedar-city",
     "price_label": "$17.95",
+    "group": "restaurant",
     "check_first": false
    }
   ]
