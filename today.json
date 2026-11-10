@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-09T16:27:30",
+ "generated": "2026-11-09T17:40:11",
  "deal_count": 59,
  "source_count": 37,
- "problems": 1,
+ "problems": 2,
  "deals": [
   {
    "business": "Smith's",
@@ -22,6 +22,7 @@
    "est_calories": 2400,
    "calories_per_dollar": 480,
    "est_ounces": 36,
+   "est_regular_price": null,
    "start_date": "2026-11-04",
    "end_date": "2026-11-10",
    "days_of_week": [],
@@ -58,6 +59,7 @@
    "est_calories": 800,
    "calories_per_dollar": 402,
    "est_ounces": 5,
+   "est_regular_price": null,
    "start_date": "2026-11-08",
    "end_date": "2026-11-14",
    "days_of_week": [],
@@ -95,6 +97,7 @@
    "est_calories": 400,
    "calories_per_dollar": 400,
    "est_ounces": 1,
+   "est_regular_price": null,
    "start_date": "2026-11-08",
    "end_date": "2026-11-14",
    "days_of_week": [],
@@ -131,6 +134,7 @@
    "est_calories": 1400,
    "calories_per_dollar": 280,
    "est_ounces": 16,
+   "est_regular_price": null,
    "start_date": "2026-11-04",
    "end_date": "2026-11-10",
    "days_of_week": [],
@@ -167,6 +171,7 @@
    "est_calories": 450,
    "calories_per_dollar": 266,
    "est_ounces": 3,
+   "est_regular_price": 4.0,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -203,6 +208,7 @@
    "est_calories": 2400,
    "calories_per_dollar": 240,
    "est_ounces": 30,
+   "est_regular_price": 22,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -239,6 +245,7 @@
    "est_calories": 4800,
    "calories_per_dollar": 240,
    "est_ounces": 50,
+   "est_regular_price": 40,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -275,6 +282,7 @@
    "est_calories": 1200,
    "calories_per_dollar": 240,
    "est_ounces": 10,
+   "est_regular_price": null,
    "start_date": "2026-11-04",
    "end_date": "2026-11-10",
    "days_of_week": [],
@@ -312,6 +320,7 @@
    "est_calories": 450,
    "calories_per_dollar": 225,
    "est_ounces": 5,
+   "est_regular_price": 5.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -351,6 +360,7 @@
    "est_calories": 900,
    "calories_per_dollar": 210,
    "est_ounces": 5,
+   "est_regular_price": null,
    "start_date": "2026-11-08",
    "end_date": "2026-11-14",
    "days_of_week": [],
@@ -387,6 +397,7 @@
    "est_calories": 4500,
    "calories_per_dollar": 205,
    "est_ounces": 46,
+   "est_regular_price": 42,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -423,6 +434,7 @@
    "est_calories": 200,
    "calories_per_dollar": 202,
    "est_ounces": 1.5,
+   "est_regular_price": 2.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -459,6 +471,7 @@
    "est_calories": 1000,
    "calories_per_dollar": 200,
    "est_ounces": 12,
+   "est_regular_price": null,
    "start_date": "2026-11-04",
    "end_date": "2026-11-10",
    "days_of_week": [],
@@ -495,6 +508,7 @@
    "est_calories": 560,
    "calories_per_dollar": 187,
    "est_ounces": 4,
+   "est_regular_price": null,
    "start_date": "2026-11-08",
    "end_date": "2026-11-14",
    "days_of_week": [],
@@ -531,6 +545,7 @@
    "est_calories": 900,
    "calories_per_dollar": 180,
    "est_ounces": 8,
+   "est_regular_price": null,
    "start_date": "2026-11-04",
    "end_date": "2026-11-10",
    "days_of_week": [],
@@ -567,6 +582,7 @@
    "est_calories": 3200,
    "calories_per_dollar": 178,
    "est_ounces": 38,
+   "est_regular_price": 28,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -603,6 +619,7 @@
    "est_calories": 1200,
    "calories_per_dollar": 150,
    "est_ounces": 32,
+   "est_regular_price": null,
    "start_date": "2026-11-04",
    "end_date": "2026-11-10",
    "days_of_week": [],
@@ -639,6 +656,7 @@
    "est_calories": 800,
    "calories_per_dollar": 133,
    "est_ounces": 12,
+   "est_regular_price": 11,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -675,6 +693,7 @@
    "est_calories": 1300,
    "calories_per_dollar": 131,
    "est_ounces": 14,
+   "est_regular_price": 13.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -717,6 +736,7 @@
    "est_calories": 90,
    "calories_per_dollar": 129,
    "est_ounces": 1.2,
+   "est_regular_price": 1.2,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -756,6 +776,7 @@
    "est_calories": 1400,
    "calories_per_dollar": 127,
    "est_ounces": 22,
+   "est_regular_price": 15,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -792,6 +813,7 @@
    "est_calories": 1000,
    "calories_per_dollar": 125,
    "est_ounces": 32,
+   "est_regular_price": 10.99,
    "start_date": "2026-11-04",
    "end_date": "2026-11-10",
    "days_of_week": [],
@@ -828,6 +850,7 @@
    "est_calories": 1000,
    "calories_per_dollar": 125,
    "est_ounces": 14,
+   "est_regular_price": 10.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -866,6 +889,7 @@
    "est_calories": 850,
    "calories_per_dollar": 122,
    "est_ounces": 11,
+   "est_regular_price": 11.0,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -902,6 +926,7 @@
    "est_calories": 1200,
    "calories_per_dollar": 110,
    "est_ounces": 14,
+   "est_regular_price": 13.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -945,6 +970,7 @@
    "est_calories": 100,
    "calories_per_dollar": 100,
    "est_ounces": 0.9,
+   "est_regular_price": null,
    "start_date": "2026-11-08",
    "end_date": "2026-11-14",
    "days_of_week": [],
@@ -981,6 +1007,7 @@
    "est_calories": 1000,
    "calories_per_dollar": 100,
    "est_ounces": 20,
+   "est_regular_price": 13.0,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -1017,6 +1044,7 @@
    "est_calories": 300,
    "calories_per_dollar": 100,
    "est_ounces": 2,
+   "est_regular_price": null,
    "start_date": "2026-11-04",
    "end_date": "2026-11-10",
    "days_of_week": [],
@@ -1053,6 +1081,7 @@
    "est_calories": 1100,
    "calories_per_dollar": 92,
    "est_ounces": 15,
+   "est_regular_price": 14.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1095,6 +1124,7 @@
    "est_calories": 1100,
    "calories_per_dollar": 92,
    "est_ounces": 15,
+   "est_regular_price": 14.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1139,6 +1169,7 @@
    "est_calories": 450,
    "calories_per_dollar": 90,
    "est_ounces": 9,
+   "est_regular_price": 8.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -1177,6 +1208,7 @@
    "est_calories": 350,
    "calories_per_dollar": 88,
    "est_ounces": 5,
+   "est_regular_price": 5.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -1213,6 +1245,7 @@
    "est_calories": 900,
    "calories_per_dollar": 86,
    "est_ounces": 18,
+   "est_regular_price": 12.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1255,6 +1288,7 @@
    "est_calories": 1100,
    "calories_per_dollar": 85,
    "est_ounces": 22,
+   "est_regular_price": 14.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1297,6 +1331,7 @@
    "est_calories": 1000,
    "calories_per_dollar": 84,
    "est_ounces": 26,
+   "est_regular_price": 14.0,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1339,6 +1374,7 @@
    "est_calories": 900,
    "calories_per_dollar": 82,
    "est_ounces": 20,
+   "est_regular_price": 12.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1381,6 +1417,7 @@
    "est_calories": 750,
    "calories_per_dollar": 81,
    "est_ounces": 18,
+   "est_regular_price": 11.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1423,6 +1460,7 @@
    "est_calories": 850,
    "calories_per_dollar": 81,
    "est_ounces": 18,
+   "est_regular_price": 12.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1465,6 +1503,7 @@
    "est_calories": 900,
    "calories_per_dollar": 79,
    "est_ounces": 14,
+   "est_regular_price": 12.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1507,6 +1546,7 @@
    "est_calories": 1000,
    "calories_per_dollar": 77,
    "est_ounces": 14,
+   "est_regular_price": 15.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1549,6 +1589,7 @@
    "est_calories": 800,
    "calories_per_dollar": 77,
    "est_ounces": 17,
+   "est_regular_price": 13.0,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1591,6 +1632,7 @@
    "est_calories": 900,
    "calories_per_dollar": 75,
    "est_ounces": 18,
+   "est_regular_price": 13.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1633,6 +1675,7 @@
    "est_calories": 900,
    "calories_per_dollar": 75,
    "est_ounces": 20,
+   "est_regular_price": 14.0,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1675,6 +1718,7 @@
    "est_calories": 800,
    "calories_per_dollar": 67,
    "est_ounces": 14,
+   "est_regular_price": 12.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1717,6 +1761,7 @@
    "est_calories": 750,
    "calories_per_dollar": 63,
    "est_ounces": 14,
+   "est_regular_price": 12.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1759,6 +1804,7 @@
    "est_calories": 700,
    "calories_per_dollar": 62,
    "est_ounces": 16,
+   "est_regular_price": 12.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1801,6 +1847,7 @@
    "est_calories": 550,
    "calories_per_dollar": 50,
    "est_ounces": 16,
+   "est_regular_price": 12.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1843,6 +1890,7 @@
    "est_calories": 300,
    "calories_per_dollar": 43,
    "est_ounces": 8,
+   "est_regular_price": 9.99,
    "start_date": "2026-11-04",
    "end_date": "2026-11-10",
    "days_of_week": [],
@@ -1879,6 +1927,7 @@
    "est_calories": 500,
    "calories_per_dollar": 40,
    "est_ounces": 16,
+   "est_regular_price": 13.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1921,6 +1970,7 @@
    "est_calories": 500,
    "calories_per_dollar": 39,
    "est_ounces": 18,
+   "est_regular_price": 13.5,
    "start_date": "",
    "end_date": "",
    "days_of_week": [
@@ -1963,6 +2013,7 @@
    "est_calories": 500,
    "calories_per_dollar": 33,
    "est_ounces": 3.5,
+   "est_regular_price": null,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -2002,6 +2053,7 @@
    "est_calories": 200,
    "calories_per_dollar": null,
    "est_ounces": 12,
+   "est_regular_price": 4.0,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -2038,6 +2090,7 @@
    "est_calories": 200,
    "calories_per_dollar": null,
    "est_ounces": 10,
+   "est_regular_price": 5.0,
    "start_date": "",
    "end_date": "",
    "days_of_week": [],
@@ -2074,6 +2127,7 @@
    "est_calories": 0,
    "calories_per_dollar": null,
    "est_ounces": 405,
+   "est_regular_price": null,
    "start_date": "2026-11-08",
    "end_date": "2026-11-14",
    "days_of_week": [],
@@ -2110,6 +2164,7 @@
    "est_calories": 800,
    "calories_per_dollar": 1159,
    "est_ounces": 8.5,
+   "est_regular_price": null,
    "start_date": "2026-11-08",
    "end_date": "2026-11-14",
    "days_of_week": [],
@@ -2146,6 +2201,7 @@
    "est_calories": 1260,
    "calories_per_dollar": 633,
    "est_ounces": 38,
+   "est_regular_price": null,
    "start_date": "2026-11-04",
    "end_date": "2026-11-10",
    "days_of_week": [],
@@ -2182,6 +2238,7 @@
    "est_calories": 6000,
    "calories_per_dollar": 457,
    "est_ounces": 208,
+   "est_regular_price": null,
    "start_date": "2026-11-04",
    "end_date": "2026-11-10",
    "days_of_week": [],
@@ -2218,6 +2275,7 @@
    "est_calories": 500,
    "calories_per_dollar": 336,
    "est_ounces": 6,
+   "est_regular_price": 2.5,
    "start_date": "2026-11-04",
    "end_date": "2026-11-10",
    "days_of_week": [],
@@ -2254,6 +2312,7 @@
    "est_calories": 2000,
    "calories_per_dollar": 167,
    "est_ounces": 28,
+   "est_regular_price": null,
    "start_date": "2026-11-04",
    "end_date": "2026-11-10",
    "days_of_week": [],
@@ -2293,6 +2352,7 @@
     "est_calories": 1300,
     "calories_per_dollar": 131,
     "est_ounces": 14,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -2335,6 +2395,7 @@
     "est_calories": 90,
     "calories_per_dollar": 129,
     "est_ounces": 1.2,
+    "est_regular_price": 1.2,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -2374,6 +2435,7 @@
     "est_calories": 1200,
     "calories_per_dollar": 110,
     "est_ounces": 14,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -2416,6 +2478,7 @@
     "est_calories": 1100,
     "calories_per_dollar": 92,
     "est_ounces": 15,
+    "est_regular_price": 14.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -2458,6 +2521,7 @@
     "est_calories": 1100,
     "calories_per_dollar": 92,
     "est_ounces": 15,
+    "est_regular_price": 14.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -2500,6 +2564,7 @@
     "est_calories": 900,
     "calories_per_dollar": 86,
     "est_ounces": 18,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -2542,6 +2607,7 @@
     "est_calories": 1100,
     "calories_per_dollar": 85,
     "est_ounces": 22,
+    "est_regular_price": 14.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -2584,6 +2650,7 @@
     "est_calories": 1000,
     "calories_per_dollar": 84,
     "est_ounces": 26,
+    "est_regular_price": 14.0,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -2626,6 +2693,7 @@
     "est_calories": 900,
     "calories_per_dollar": 82,
     "est_ounces": 20,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -2668,6 +2736,7 @@
     "est_calories": 750,
     "calories_per_dollar": 81,
     "est_ounces": 18,
+    "est_regular_price": 11.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -2710,6 +2779,7 @@
     "est_calories": 850,
     "calories_per_dollar": 81,
     "est_ounces": 18,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -2752,6 +2822,7 @@
     "est_calories": 900,
     "calories_per_dollar": 79,
     "est_ounces": 14,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -2794,6 +2865,7 @@
     "est_calories": 1000,
     "calories_per_dollar": 77,
     "est_ounces": 14,
+    "est_regular_price": 15.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -2836,6 +2908,7 @@
     "est_calories": 800,
     "calories_per_dollar": 77,
     "est_ounces": 17,
+    "est_regular_price": 13.0,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -2878,6 +2951,7 @@
     "est_calories": 900,
     "calories_per_dollar": 75,
     "est_ounces": 18,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -2920,6 +2994,7 @@
     "est_calories": 900,
     "calories_per_dollar": 75,
     "est_ounces": 20,
+    "est_regular_price": 14.0,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -2962,6 +3037,7 @@
     "est_calories": 800,
     "calories_per_dollar": 67,
     "est_ounces": 14,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3004,6 +3080,7 @@
     "est_calories": 750,
     "calories_per_dollar": 63,
     "est_ounces": 14,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3046,6 +3123,7 @@
     "est_calories": 700,
     "calories_per_dollar": 62,
     "est_ounces": 16,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3088,6 +3166,7 @@
     "est_calories": 550,
     "calories_per_dollar": 50,
     "est_ounces": 16,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3130,6 +3209,7 @@
     "est_calories": 500,
     "calories_per_dollar": 40,
     "est_ounces": 16,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3172,6 +3252,7 @@
     "est_calories": 500,
     "calories_per_dollar": 39,
     "est_ounces": 18,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3216,6 +3297,7 @@
     "est_calories": 340,
     "calories_per_dollar": 453,
     "est_ounces": 6,
+    "est_regular_price": 1.5,
     "start_date": "",
     "end_date": "2026-12-27",
     "days_of_week": [
@@ -3257,6 +3339,7 @@
     "est_calories": 600,
     "calories_per_dollar": 200,
     "est_ounces": 7,
+    "est_regular_price": 6,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3295,6 +3378,7 @@
     "est_calories": 1300,
     "calories_per_dollar": 131,
     "est_ounces": 14,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3337,6 +3421,7 @@
     "est_calories": 90,
     "calories_per_dollar": 129,
     "est_ounces": 1.2,
+    "est_regular_price": 1.2,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3376,6 +3461,7 @@
     "est_calories": 1200,
     "calories_per_dollar": 110,
     "est_ounces": 14,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3418,6 +3504,7 @@
     "est_calories": 1100,
     "calories_per_dollar": 92,
     "est_ounces": 15,
+    "est_regular_price": 14.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3460,6 +3547,7 @@
     "est_calories": 1100,
     "calories_per_dollar": 92,
     "est_ounces": 15,
+    "est_regular_price": 14.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3502,6 +3590,7 @@
     "est_calories": 900,
     "calories_per_dollar": 86,
     "est_ounces": 18,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3544,6 +3633,7 @@
     "est_calories": 1100,
     "calories_per_dollar": 85,
     "est_ounces": 22,
+    "est_regular_price": 14.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3586,6 +3676,7 @@
     "est_calories": 1000,
     "calories_per_dollar": 84,
     "est_ounces": 26,
+    "est_regular_price": 14.0,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3628,6 +3719,7 @@
     "est_calories": 900,
     "calories_per_dollar": 82,
     "est_ounces": 20,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3670,6 +3762,7 @@
     "est_calories": 750,
     "calories_per_dollar": 81,
     "est_ounces": 18,
+    "est_regular_price": 11.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3712,6 +3805,7 @@
     "est_calories": 850,
     "calories_per_dollar": 81,
     "est_ounces": 18,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3754,6 +3848,7 @@
     "est_calories": 900,
     "calories_per_dollar": 79,
     "est_ounces": 14,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3796,6 +3891,7 @@
     "est_calories": 1000,
     "calories_per_dollar": 77,
     "est_ounces": 14,
+    "est_regular_price": 15.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3838,6 +3934,7 @@
     "est_calories": 800,
     "calories_per_dollar": 77,
     "est_ounces": 17,
+    "est_regular_price": 13.0,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3880,6 +3977,7 @@
     "est_calories": 900,
     "calories_per_dollar": 75,
     "est_ounces": 18,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3922,6 +4020,7 @@
     "est_calories": 900,
     "calories_per_dollar": 75,
     "est_ounces": 20,
+    "est_regular_price": 14.0,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -3964,6 +4063,7 @@
     "est_calories": 800,
     "calories_per_dollar": 67,
     "est_ounces": 14,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4006,6 +4106,7 @@
     "est_calories": 750,
     "calories_per_dollar": 63,
     "est_ounces": 14,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4048,6 +4149,7 @@
     "est_calories": 700,
     "calories_per_dollar": 62,
     "est_ounces": 16,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4090,6 +4192,7 @@
     "est_calories": 550,
     "calories_per_dollar": 50,
     "est_ounces": 16,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4132,6 +4235,7 @@
     "est_calories": 500,
     "calories_per_dollar": 40,
     "est_ounces": 16,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4174,6 +4278,7 @@
     "est_calories": 500,
     "calories_per_dollar": 39,
     "est_ounces": 18,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4216,6 +4321,7 @@
     "est_calories": 450,
     "calories_per_dollar": null,
     "est_ounces": 8,
+    "est_regular_price": null,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4256,6 +4362,7 @@
     "est_calories": 1300,
     "calories_per_dollar": 131,
     "est_ounces": 14,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4298,6 +4405,7 @@
     "est_calories": 1200,
     "calories_per_dollar": 110,
     "est_ounces": 14,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4340,6 +4448,7 @@
     "est_calories": 1100,
     "calories_per_dollar": 92,
     "est_ounces": 15,
+    "est_regular_price": 14.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4382,6 +4491,7 @@
     "est_calories": 1100,
     "calories_per_dollar": 92,
     "est_ounces": 15,
+    "est_regular_price": 14.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4424,6 +4534,7 @@
     "est_calories": 900,
     "calories_per_dollar": 86,
     "est_ounces": 18,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4466,6 +4577,7 @@
     "est_calories": 1100,
     "calories_per_dollar": 85,
     "est_ounces": 22,
+    "est_regular_price": 14.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4508,6 +4620,7 @@
     "est_calories": 1000,
     "calories_per_dollar": 84,
     "est_ounces": 26,
+    "est_regular_price": 14.0,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4550,6 +4663,7 @@
     "est_calories": 900,
     "calories_per_dollar": 82,
     "est_ounces": 20,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4592,6 +4706,7 @@
     "est_calories": 750,
     "calories_per_dollar": 81,
     "est_ounces": 18,
+    "est_regular_price": 11.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4634,6 +4749,7 @@
     "est_calories": 850,
     "calories_per_dollar": 81,
     "est_ounces": 18,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4676,6 +4792,7 @@
     "est_calories": 900,
     "calories_per_dollar": 79,
     "est_ounces": 14,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4718,6 +4835,7 @@
     "est_calories": 1000,
     "calories_per_dollar": 77,
     "est_ounces": 14,
+    "est_regular_price": 15.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4760,6 +4878,7 @@
     "est_calories": 800,
     "calories_per_dollar": 77,
     "est_ounces": 17,
+    "est_regular_price": 13.0,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4802,6 +4921,7 @@
     "est_calories": 900,
     "calories_per_dollar": 75,
     "est_ounces": 18,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4844,6 +4964,7 @@
     "est_calories": 900,
     "calories_per_dollar": 75,
     "est_ounces": 20,
+    "est_regular_price": 14.0,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4886,6 +5007,7 @@
     "est_calories": 800,
     "calories_per_dollar": 67,
     "est_ounces": 14,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4928,6 +5050,7 @@
     "est_calories": 750,
     "calories_per_dollar": 63,
     "est_ounces": 14,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -4970,6 +5093,7 @@
     "est_calories": 700,
     "calories_per_dollar": 62,
     "est_ounces": 16,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5012,6 +5136,7 @@
     "est_calories": 550,
     "calories_per_dollar": 50,
     "est_ounces": 16,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5054,6 +5179,7 @@
     "est_calories": 500,
     "calories_per_dollar": 40,
     "est_ounces": 16,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5096,6 +5222,7 @@
     "est_calories": 500,
     "calories_per_dollar": 39,
     "est_ounces": 18,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5140,6 +5267,7 @@
     "est_calories": 1300,
     "calories_per_dollar": 131,
     "est_ounces": 14,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5182,6 +5310,7 @@
     "est_calories": 1200,
     "calories_per_dollar": 110,
     "est_ounces": 14,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5224,6 +5353,7 @@
     "est_calories": 1100,
     "calories_per_dollar": 92,
     "est_ounces": 15,
+    "est_regular_price": 14.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5266,6 +5396,7 @@
     "est_calories": 1100,
     "calories_per_dollar": 92,
     "est_ounces": 15,
+    "est_regular_price": 14.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5308,6 +5439,7 @@
     "est_calories": 900,
     "calories_per_dollar": 86,
     "est_ounces": 18,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5350,6 +5482,7 @@
     "est_calories": 1100,
     "calories_per_dollar": 85,
     "est_ounces": 22,
+    "est_regular_price": 14.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5392,6 +5525,7 @@
     "est_calories": 1000,
     "calories_per_dollar": 84,
     "est_ounces": 26,
+    "est_regular_price": 14.0,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5434,6 +5568,7 @@
     "est_calories": 900,
     "calories_per_dollar": 82,
     "est_ounces": 20,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5476,6 +5611,7 @@
     "est_calories": 750,
     "calories_per_dollar": 81,
     "est_ounces": 18,
+    "est_regular_price": 11.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5518,6 +5654,7 @@
     "est_calories": 850,
     "calories_per_dollar": 81,
     "est_ounces": 18,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5560,6 +5697,7 @@
     "est_calories": 900,
     "calories_per_dollar": 79,
     "est_ounces": 14,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5602,6 +5740,7 @@
     "est_calories": 1000,
     "calories_per_dollar": 77,
     "est_ounces": 14,
+    "est_regular_price": 15.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5644,6 +5783,7 @@
     "est_calories": 800,
     "calories_per_dollar": 77,
     "est_ounces": 17,
+    "est_regular_price": 13.0,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5686,6 +5826,7 @@
     "est_calories": 900,
     "calories_per_dollar": 75,
     "est_ounces": 18,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5728,6 +5869,7 @@
     "est_calories": 900,
     "calories_per_dollar": 75,
     "est_ounces": 20,
+    "est_regular_price": 14.0,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5770,6 +5912,7 @@
     "est_calories": 800,
     "calories_per_dollar": 67,
     "est_ounces": 14,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5812,6 +5955,7 @@
     "est_calories": 750,
     "calories_per_dollar": 63,
     "est_ounces": 14,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5854,6 +5998,7 @@
     "est_calories": 700,
     "calories_per_dollar": 62,
     "est_ounces": 16,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5896,6 +6041,7 @@
     "est_calories": 550,
     "calories_per_dollar": 50,
     "est_ounces": 16,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5938,6 +6084,7 @@
     "est_calories": 500,
     "calories_per_dollar": 40,
     "est_ounces": 16,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -5980,6 +6127,7 @@
     "est_calories": 500,
     "calories_per_dollar": 39,
     "est_ounces": 18,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6022,6 +6170,7 @@
     "est_calories": null,
     "calories_per_dollar": null,
     "est_ounces": null,
+    "est_regular_price": null,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6065,6 +6214,7 @@
     "est_calories": 1300,
     "calories_per_dollar": 131,
     "est_ounces": 14,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6107,6 +6257,7 @@
     "est_calories": 1200,
     "calories_per_dollar": 110,
     "est_ounces": 14,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6149,6 +6300,7 @@
     "est_calories": 1100,
     "calories_per_dollar": 92,
     "est_ounces": 15,
+    "est_regular_price": 14.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6191,6 +6343,7 @@
     "est_calories": 1100,
     "calories_per_dollar": 92,
     "est_ounces": 15,
+    "est_regular_price": 14.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6233,6 +6386,7 @@
     "est_calories": 900,
     "calories_per_dollar": 86,
     "est_ounces": 18,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6275,6 +6429,7 @@
     "est_calories": 1100,
     "calories_per_dollar": 85,
     "est_ounces": 22,
+    "est_regular_price": 14.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6317,6 +6472,7 @@
     "est_calories": 1000,
     "calories_per_dollar": 84,
     "est_ounces": 26,
+    "est_regular_price": 14.0,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6359,6 +6515,7 @@
     "est_calories": 900,
     "calories_per_dollar": 82,
     "est_ounces": 20,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6401,6 +6558,7 @@
     "est_calories": 750,
     "calories_per_dollar": 81,
     "est_ounces": 18,
+    "est_regular_price": 11.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6443,6 +6601,7 @@
     "est_calories": 850,
     "calories_per_dollar": 81,
     "est_ounces": 18,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6485,6 +6644,7 @@
     "est_calories": 900,
     "calories_per_dollar": 79,
     "est_ounces": 14,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6527,6 +6687,7 @@
     "est_calories": 1000,
     "calories_per_dollar": 77,
     "est_ounces": 14,
+    "est_regular_price": 15.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6569,6 +6730,7 @@
     "est_calories": 800,
     "calories_per_dollar": 77,
     "est_ounces": 17,
+    "est_regular_price": 13.0,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6611,6 +6773,7 @@
     "est_calories": 900,
     "calories_per_dollar": 75,
     "est_ounces": 18,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6653,6 +6816,7 @@
     "est_calories": 900,
     "calories_per_dollar": 75,
     "est_ounces": 20,
+    "est_regular_price": 14.0,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6695,6 +6859,7 @@
     "est_calories": 800,
     "calories_per_dollar": 67,
     "est_ounces": 14,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6737,6 +6902,7 @@
     "est_calories": 750,
     "calories_per_dollar": 63,
     "est_ounces": 14,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6779,6 +6945,7 @@
     "est_calories": 700,
     "calories_per_dollar": 62,
     "est_ounces": 16,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6821,6 +6988,7 @@
     "est_calories": 550,
     "calories_per_dollar": 50,
     "est_ounces": 16,
+    "est_regular_price": 12.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6863,6 +7031,7 @@
     "est_calories": 500,
     "calories_per_dollar": 40,
     "est_ounces": 16,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6905,6 +7074,7 @@
     "est_calories": 500,
     "calories_per_dollar": 39,
     "est_ounces": 18,
+    "est_regular_price": 13.5,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
@@ -6949,6 +7119,7 @@
     "est_calories": 590,
     "calories_per_dollar": null,
     "est_ounces": 7,
+    "est_regular_price": null,
     "start_date": "",
     "end_date": "2026-12-04",
     "days_of_week": [
@@ -6993,6 +7164,7 @@
     "est_calories": 700,
     "calories_per_dollar": 39,
     "est_ounces": 14,
+    "est_regular_price": 22.0,
     "start_date": "",
     "end_date": "",
     "days_of_week": [
